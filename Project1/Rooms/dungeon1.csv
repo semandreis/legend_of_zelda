@@ -1,0 +1,203 @@
+﻿19,2,64,120,172,228,56,7,12,480 564,,
+,,,,,,,,,,,
+1,258,886,256,176,,,,,,,
+-1,2 844 396 182 396 -1,-1,-1,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,E Keese,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+E Keese,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,E Keese,.,.,.
+,,,,,,,,,,,
+2,515,886,256,176,,,,,,,
+4 480 172 480 564 1,3 844 396 182 396 -1,19 480 620 480 240 -1,1 116 396 796 396 -1,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,.,.,T Immovable,.,.,T Immovable,.,.,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,.,.,T Immovable,.,.,T Immovable,.,.,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,.,.,T Immovable,.,.,T Immovable,.,.,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+3,772,886,256,176,,,,,,,
+-1,-1,-1,2 116 396 796 396 -1,-1,,,,,,,
+.,.,.,E Stalfos,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,E Stalfos,.
+.,.,T Immovable,T Immovable,.,.,E Stalfos,.,T Immovable,T Immovable,.,.
+.,.,T Immovable,T Immovable,.,.,.,.,T Immovable,T Immovable,.,.
+.,.,T Immovable,T Immovable,.,.,E Stalfos,.,T Immovable,T Immovable,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,E Stalfos,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+4,515,709,256,176,,,,,,,
+6 480 172 480 564 -1,-1,2 480 620 480 240 -1,-1,-1,,,,,,,
+.,.,.,E Stalfos,.,.,.,.,.,.,.,.
+.,E Stalfos,.,.,.,.,.,.,.,.,E Stalfos,.
+.,.,.,.,.,T Immovable,T Immovable,.,.,.,.,.
+.,.,.,.,.,T Immovable,T Immovable,.,.,.,.,.
+.,.,.,.,.,T Immovable,T Immovable,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+5,258,532,256,176,,,,,,,
+9 480 172 480 564 1,6 844 396 182 396 5,-1,-1,-1,,,,,,,
+.,.,.,.,.,.,.,.,E Keese,.,.,.
+.,E Keese,.,.,.,.,.,.,.,.,.,.
+.,.,.,E Keese,.,T Immovable,T Immovable,.,.,.,.,.
+E Keese,.,.,.,.,T Immovable,T Immovable,.,.,.,.,.
+.,.,.,E Keese,.,T Immovable,T Immovable,.,.,.,.,.
+.,E Keese,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+6,515,532,256,176,,,,,,,
+10 480 172 480 564 7,7 844 396 182 396 -1,4 480 620 480 240 -1,5 116 396 796 396 -1,-1,,,,,,,
+.,.,.,E Stalfos,.,.,.,.,.,.,.,.
+.,E Stalfos,.,.,.,.,.,.,.,.,.,.
+.,.,T Immovable,.,E Stalfos,.,.,.,.,T Immovable,.,.
+.,.,.,.,.,.,E Stalfos,.,.,.,.,.
+.,.,T Immovable,E Stalfos,.,.,.,.,.,T Immovable,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+7,772,532,256,176,,,,,,,
+11 480 172 480 564 9,-1,-1,6 116 396 796 396 -1,-1,,,,,,,
+.,.,.,E Keese,.,.,.,.,.,.,.,.
+.,.,T Immovable,.,.,.,.,.,.,T Immovable,E Keese,.
+.,.,.,.,.,.,.,.,E Keese,.,.,.
+.,.,.,.,.,.,.,.,.,.,I Clock,E Keese
+.,.,.,.,.,.,E Keese,.,E Keese,.,.,.
+.,.,T Immovable,.,.,.,.,.,.,T Immovable,E Keese,.
+.,.,.,E Keese,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+8,1,355,256,176,,,,,,,
+-1,9 844 396 182 396 -1,-1,-1,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,N Fire,.,.,N OldMan,.,.,N Fire,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+9,258,355,256,176,,,,,,,
+-1,10 844 396 182 396 -1,5 480 620 480 240 -1,8 116 396 796 396 6,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,E JellySmall,.,.,.,.,.,.,.
+.,.,.,.,.,T Movable,E JellySmall,.,.,.,.,.
+.,.,.,E JellySmall,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+10,515,355,256,176,,,,,,,
+13 480 172 480 564 -1,11 844 396 182 396 2,6 480 620 480 240 8,9 116 396 796 396 -1,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,T Immovable,.,.,.,.,.,.,T Immovable,T Immovable,.
+.,.,.,.,.,.,E JellySmall,.,E JellySmall,.,.,.
+.,.,.,.,.,T Immovable,T Immovable,.,.,.,I Map,E JellySmall
+.,.,.,.,.,.,E JellySmall,.,E JellySmall,.,.,.
+.,T Immovable,T Immovable,.,.,.,.,.,.,T Immovable,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+11,772,355,256,176,,,,,,,
+-1,12 844 396 182 396 -1,7 480 620 480 240 10,10 116 396 796 396 -1,-1,,,,,,,
+.,.,.,E Goriya,.,.,.,.,.,.,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,T Immovable,.,.,.,E Goriya,.,.,T Immovable,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,T Immovable,.,.,.,.,.,.,T Immovable,.,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,.,.,E Goriya,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+12,1029,355,256,176,,,,,,,
+14 480 172 480 564 1,-1,-1,11 116 396 796 396 -1,-1,,,,,,,
+.,.,.,.,.,.,E Wall,.,.,.,.,.
+.,T Immovable,.,T Immovable,.,T Immovable,T Immovable,.,T Immovable,.,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,E Wall
+.,T Immovable,.,T Immovable,.,T Immovable,T Immovable,.,T Immovable,.,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,.,T Immovable,.,T Immovable,T Immovable,.,T Immovable,.,T Immovable,.
+E Wall,.,.,.,.,.,.,E Wall,.,.,.,.
+,,,,,,,,,,,
+13,515,178,256,176,,,,,,,
+18 480 172 480 564 1,-1,10 480 620 480 240 -1,-1,-1,,,,,,,
+T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,.,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable
+T Immovable,.,.,.,T Immovable,.,.,.,.,T Immovable,E Stalfos,T Immovable
+T Immovable,.,T Immovable,.,T Immovable,.,T Immovable,T Immovable,.,T Immovable,.,T Immovable
+.,.,T Immovable,.,T Immovable,.,E Stalfos,T Immovable,.,T Immovable,.,.
+T Immovable,.,T Immovable,.,T Immovable,T Immovable,.,T Immovable,E Stalfos,T Immovable,.,T Immovable
+T Immovable,.,T Immovable,.,.,.,.,T Immovable,.,.,.,T Immovable
+T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,.,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable
+,,,,,,,,,,,
+14,1029,178,256,176,,,,,,,
+-1,15 844 396 182 396 -1,12 480 620 480 240 5,-1,-1,,,,,,,
+.,.,.,.,.,.,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable
+.,.,.,.,.,.,.,.,.,T Immovable,T Immovable,T Immovable
+.,.,.,.,.,.,.,.,.,.,T Immovable,T Immovable
+.,.,.,.,.,.,.,.,.,B Aquamentus,.,.
+.,.,.,.,.,.,.,.,.,.,T Immovable,T Immovable
+.,.,.,.,.,.,.,.,.,T Immovable,T Immovable,T Immovable
+.,.,.,.,.,.,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable
+,,,,,,,,,,,
+15,1286,178,256,176,,,,,,,
+-1,-1,-1,14 116 396 796 396 -1,-1,,,,,,,
+.,.,.,.,.,.,.,.,.,.,.,.
+.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,.
+.,T Immovable,.,.,T Immovable,.,.,T Immovable,.,.,T Immovable,.
+.,T Immovable,.,T Immovable,.,I Triforce,.,.,T Immovable,.,T Immovable,.
+.,T Immovable,.,.,.,.,.,.,.,.,T Immovable,.
+.,T Immovable,T Immovable,T Immovable,T Immovable,.,.,T Immovable,T Immovable,T Immovable,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+16,1,1,256,176,,,,,,,
+-1,-1,-1,-1,17 228 228 430 400 -1,,,,,,,
+T Immovable,.,T Immovable,.,.,.,.,.,.,.,.,.
+T Immovable,.,T Immovable,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable
+T Immovable,.,T Immovable,.,T Immovable,.,.,.,.,.,.,.
+T Immovable,.,T Immovable,.,T Immovable,.,I Bow,.,.,.,.,.
+E Keese,.,T Immovable,.,E Keese,.,.,E Keese,.,.,.,E Keese
+T Immovable,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,.,T Immovable,T Immovable
+T Immovable,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+17,258,1,256,176,,,,,,,
+-1,18 844 396 182 396 -1,-1,-1,16 508 396 228 300 -1,,,,,,,
+E Trap1,.,.,.,.,.,.,.,.,.,.,E Trap3
+.,.,.,.,.,.,T Immovable,.,.,.,.,.
+.,.,.,.,.,T Immovable,.,T Immovable,.,.,.,.
+.,.,.,.,T Movable,.,.,.,T Immovable,.,.,.
+.,.,.,.,.,T Immovable,.,T Immovable,.,.,.,.
+.,.,.,.,.,.,T Immovable,.,.,.,.,.
+E Trap2,.,.,.,.,.,.,.,.,.,.,E Trap4
+,,,,,,,,,,,
+18,515,1,256,176,,,,,,,
+-1,-1,13 480 620 480 240 -1,17 116 396 796 396 4,-1,,,,,,,
+.,.,.,E Goriya,.,.,.,.,.,.,.,.
+.,T Immovable,T Immovable,T Immovable,.,.,.,.,T Immovable,T Immovable,T Immovable,.
+.,T Immovable,.,.,E Goriya,.,.,.,.,.,T Immovable,.
+.,T Immovable,.,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,T Immovable,.,T Immovable,.
+.,T Immovable,.,E Goriya,.,.,.,.,.,.,T Immovable,.
+.,T Immovable,T Immovable,T Immovable,.,.,.,.,T Immovable,T Immovable,T Immovable,.
+.,.,.,.,.,.,.,.,.,.,.,.
+,,,,,,,,,,,
+19,515,1066,256,176,,,,,,,
+2 480 172 480 564 -1,-1,-1,-1,-1,,,,,,,
+I Arrow,I Fairy,I Boomerang,.,.,.,.,.,.,.,.,.
+I Candle,I Heart,.,.,.,.,.,.,.,.,.,.
+I Potion,I HContainer,.,.,.,.,.,.,.,.,.,.
+I Bomb,I Key,.,.,.,.,.,E Rope,.,E Rope,.,.
+I Bow,I Map,.,.,.,.,.,.,.,.,.,B Dodongo
+I Clock,I Rupee,.,.,.,.,.,.,.,.,.,.
+I Compass,I Triforce,.,E JellyBig,.,E JellyBig,.,.,.,.,.,.
+,,,,,,,,,,,
+64 120 114 554,64 120 1000 84,850 120 114 898,64 624 1000 114,,,,,,,,
+,,,,,,,,,,,
+7,6,,,,,,,,,,
+16,17,18,-1,-1,-1,,,,,,
+-1,-1,13,-1,14,15,,,,,,
+8,9,10,11,12,-1,,,,,,
+-1,5,6,7,-1,-1,,,,,,
+-1,-1,4,-1,-1,-1,,,,,,
+-1,1,2,3,-1,-1,,,,,,
+-1,-1,19,-1,-1,-1,,,,,,
+END,,,,,,,,,,,
